@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: a68cabce49d1393d1b82a65ae403ba54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4280651899078476089
+    second: Roasted chicken rotation in pixel art_0
+  - first:
+      213: 4747278364560844026
+    second: Roasted chicken rotation in pixel art_1
+  - first:
+      213: -8813253507959057909
+    second: Roasted chicken rotation in pixel art_2
+  - first:
+      213: 2895358751349219702
+    second: Roasted chicken rotation in pixel art_3
+  - first:
+      213: -1260552779489503135
+    second: Roasted chicken rotation in pixel art_4
+  - first:
+      213: 6081429354232808299
+    second: Roasted chicken rotation in pixel art_5
+  - first:
+      213: 5595340385083671992
+    second: Roasted chicken rotation in pixel art_6
+  - first:
+      213: -8392044050230286232
+    second: Roasted chicken rotation in pixel art_7
+  - first:
+      213: 8913801956078738437
+    second: Roasted chicken rotation in pixel art_8
+  - first:
+      213: 5401196712993723747
+    second: Roasted chicken rotation in pixel art_9
+  - first:
+      213: -7337942379314417030
+    second: Roasted chicken rotation in pixel art_10
+  - first:
+      213: 8770169765121674583
+    second: Roasted chicken rotation in pixel art_11
+  - first:
+      213: -1935327672344622455
+    second: Roasted chicken rotation in pixel art_12
+  - first:
+      213: -7855863808708625111
+    second: Roasted chicken rotation in pixel art_13
+  - first:
+      213: 7193563502895317003
+    second: Roasted chicken rotation in pixel art_14
+  - first:
+      213: 7400180371213470059
+    second: Roasted chicken rotation in pixel art_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 983
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4eb893588b1e140800000000000000
+      internalID: 4747278364560844026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0292ae01a801b580800000000000000
+      internalID: -8813253507959057909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 972
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6712d7fa1716e2820800000000000000
+      internalID: 2895358751349219702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16895edfced918ee0800000000000000
+      internalID: -1260552779489503135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b630ea1e6c3956450800000000000000
+      internalID: 6081429354232808299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b54f425f64a6ad40800000000000000
+      internalID: 5595340385083671992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 240
+        width: 234
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e7963668798b80800000000000000
+      internalID: -8392044050230286232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 618
+        width: 289
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5146d6af24bb70800000000000000
+      internalID: 8913801956078738437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 242
+        width: 265
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3659fff2bc7e4fa40800000000000000
+      internalID: 5401196712993723747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 621
+        width: 276
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72fdaab8446a2a90800000000000000
+      internalID: -7337942379314417030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 235
+        width: 317
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dc2fd5fe6e5b970800000000000000
+      internalID: 8770169765121674583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 623
+        width: 330
+        height: 204
+      alignment: 9
+      pivot: {x: 0.6527307, y: 0.45117995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4aed5cb55425e0800000000000000
+      internalID: -1935327672344622455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 232
+        width: 326
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d3316fc7d5af290800000000000000
+      internalID: -7855863808708625111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_14
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004a4b84eba4d360800000000000000
+      internalID: 7193563502895317003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roasted chicken rotation in pixel art_15
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b694ffbf6d8b2b660800000000000000
+      internalID: 7400180371213470059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 62b261f70ea87f5de91122c19c48146d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Roasted chicken rotation in pixel art_0: 4280651899078476089
+      Roasted chicken rotation in pixel art_1: 4747278364560844026
+      Roasted chicken rotation in pixel art_10: -7337942379314417030
+      Roasted chicken rotation in pixel art_11: 8770169765121674583
+      Roasted chicken rotation in pixel art_12: -1935327672344622455
+      Roasted chicken rotation in pixel art_13: -7855863808708625111
+      Roasted chicken rotation in pixel art_14: 7193563502895317003
+      Roasted chicken rotation in pixel art_15: 7400180371213470059
+      Roasted chicken rotation in pixel art_2: -8813253507959057909
+      Roasted chicken rotation in pixel art_3: 2895358751349219702
+      Roasted chicken rotation in pixel art_4: -1260552779489503135
+      Roasted chicken rotation in pixel art_5: 6081429354232808299
+      Roasted chicken rotation in pixel art_6: 5595340385083671992
+      Roasted chicken rotation in pixel art_7: -8392044050230286232
+      Roasted chicken rotation in pixel art_8: 8913801956078738437
+      Roasted chicken rotation in pixel art_9: 5401196712993723747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
